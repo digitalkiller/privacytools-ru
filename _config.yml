@@ -1,6 +1,6 @@
-title: Privacy Tools - Encryption Against Global Mass Surveillance
-description: You are being watched. Knowledge, encryption and privacy tools to protect you against global mass surveillance.
-url: "https://www.privacytools.io"
+title: Privacytools-ru - Шифрование против глобального массового слежения
+description: За тобой следят. Частные и спонсированные государством организации собирают данные о твоей Интернет-активности.
+url: "https://privacytools-ru.github.io/"
 sass:
   style: compressed
 plugins:
